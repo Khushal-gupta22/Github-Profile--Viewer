@@ -1,1 +1,1 @@
-# Github-Profile--Viewer
+# Github-Profile-Viewer
